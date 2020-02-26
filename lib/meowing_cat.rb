@@ -9,9 +9,9 @@ class Cat
   
 end 
 
-class cat
-  def bark
-    puts "woof!"
+class Cat
+  def meow
+    puts "meow!"
   end 
   
 end 
