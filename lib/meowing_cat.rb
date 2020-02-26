@@ -10,7 +10,7 @@ class Cat
 end 
 
 class Cat
-  def meow
+  def meow (meow)
     puts "meow!"
   end 
   
